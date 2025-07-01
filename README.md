@@ -1,6 +1,6 @@
 <!-- HEADER GIF -->
 <p align="center">
-  <img src="https://media.tenor.com/-8IYDJjZt6sAAAAC/coding.gif" width="300" alt="Dev GIF" />
+  <img src="https://i.gifer.com/VAyR.gif" width="100%" alt="Banner" />
 </p>
 
 
