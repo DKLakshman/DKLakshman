@@ -1,6 +1,6 @@
 <!-- HEADER GIF -->
 <p align="center">
-  <img src="https://i.gifer.com/VAyR.gif" width="100%" alt="Banner" />
+  <img src="https://i.pinimg.com/originals/bf/d6/b9/bfd6b9ae72675b8c1f2939df9849b018.gif" width="100%" alt="Glitch Banner" />
 </p>
 
 
