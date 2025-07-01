@@ -1,7 +1,8 @@
 <!-- HEADER GIF -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/bf/d6/b9/bfd6b9ae72675b8c1f2939df9849b018.gif" width="100%" alt="Background" />
+  <img src="https://i.gifer.com/VAyR.gif" width="100%" alt="Animated Banner" />
 </p>
+
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Daham Kaushika</h1>
