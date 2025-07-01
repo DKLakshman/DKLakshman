@@ -1,6 +1,6 @@
 <!-- HEADER GIF -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF00C8&background=00000000&center=true&vCenter=true&width=450&lines=Hi,+I'm+Daham+Kaushika;Welcome+to+my+Profile;I+❤️+Full+Stack+Development" />
+  <img src="https://media.tenor.com/-8IYDJjZt6sAAAAC/coding.gif" width="300" alt="Dev GIF" />
 </p>
 
 
