@@ -1,7 +1,8 @@
 <!-- HEADER GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coder GIF" />
+  <img src="https://i.pinimg.com/originals/bf/d6/b9/bfd6b9ae72675b8c1f2939df9849b018.gif" width="100%" alt="Background" />
 </p>
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Daham Kaushika</h1>
 <h3 align="center">💻 Aspiring Software Engineer | 👨‍🎓 Undergraduate @ SLIIT | 🌱 Lifelong Learner</h3>
