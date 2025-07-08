@@ -6,7 +6,7 @@
 
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Daham Kaushika Lakshman</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Daham Kaushika</h1>
 <h3 align="center">💻 Aspiring Software Engineer | 👨‍🎓 Undergraduate @ SLIIT | 🌱 Lifelong Learner</h3>
 
 <!-- Typing Animation -->
